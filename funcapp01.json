@@ -1,0 +1,20 @@
+{
+            "comments": "Generalized from resource: '/subscriptions/5131d52f-bef3-4440-ba7d-7acd7975ee43/resourceGroups/functionappdedamien/providers/microsoft.insights/components/functionappdedamien001'.",
+            "type": "microsoft.insights/components",
+            "kind": "web",
+            "name": "[parameters('components_functionappdedamien001_name')]",
+            "apiVersion": "2015-05-01",
+            "location": "eastus",
+            "tags": {
+                "hidden-link:/subscriptions/5131d52f-bef3-4440-ba7d-7acd7975ee43/resourceGroups/functionappdedamien/providers/Microsoft.Web/sites/functionappdedamien001": "Resource"
+            },
+            "scale": null,
+            "properties": {
+                "Application_Type": "web",
+                "Flow_Type": null,
+                "Request_Source": "IbizaWebAppExtensionCreate",
+                "HockeyAppId": null,
+                "SamplingPercentage": null
+            },
+            "dependsOn": []
+        }
